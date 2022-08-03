@@ -1,0 +1,15 @@
+V:\МоиПроекты\MyCodeLibrary\РаботатьЗдесь\MyCodeLibrary\MyCodeLibraryExt1\bin\Debug\MyCodeLibraryExt1.dll
+V:\МоиПроекты\MyCodeLibrary\РаботатьЗдесь\MyCodeLibrary\MyCodeLibraryExt1\bin\Debug\MyCodeLibraryExt1.pdb
+V:\МоиПроекты\MyCodeLibrary\РаботатьЗдесь\MyCodeLibrary\MyCodeLibraryExt1\obj\Debug\ResolveAssemblyReference.cache
+V:\МоиПроекты\MyCodeLibrary\РаботатьЗдесь\MyCodeLibrary\MyCodeLibraryExt1\obj\Debug\MyCodeLibraryExt1.dll
+V:\МоиПроекты\MyCodeLibrary\РаботатьЗдесь\MyCodeLibrary\MyCodeLibraryExt1\obj\Debug\MyCodeLibraryExt1.pdb
+C:\Work\ЛокальныеИнструменты\MyCodeLibrary\РаботатьЗдесь\MyCodeLibrary\MyCodeLibraryExt1\bin\Debug\MyCodeLibraryExt1.dll
+C:\Work\ЛокальныеИнструменты\MyCodeLibrary\РаботатьЗдесь\MyCodeLibrary\MyCodeLibraryExt1\bin\Debug\MyCodeLibraryExt1.pdb
+C:\Work\ЛокальныеИнструменты\MyCodeLibrary\РаботатьЗдесь\MyCodeLibrary\MyCodeLibraryExt1\obj\Debug\ResolveAssemblyReference.cache
+C:\Work\ЛокальныеИнструменты\MyCodeLibrary\РаботатьЗдесь\MyCodeLibrary\MyCodeLibraryExt1\obj\Debug\MyCodeLibraryExt1.dll
+C:\Work\ЛокальныеИнструменты\MyCodeLibrary\РаботатьЗдесь\MyCodeLibrary\MyCodeLibraryExt1\obj\Debug\MyCodeLibraryExt1.pdb
+C:\Users\Администратор\Documents\GitHub\myCodeLibrary\РаботатьЗдесь\MyCodeLibrary\MyCodeLibraryExt1\bin\Debug\MyCodeLibraryExt1.dll
+C:\Users\Администратор\Documents\GitHub\myCodeLibrary\РаботатьЗдесь\MyCodeLibrary\MyCodeLibraryExt1\bin\Debug\MyCodeLibraryExt1.pdb
+C:\Users\Администратор\Documents\GitHub\myCodeLibrary\РаботатьЗдесь\MyCodeLibrary\MyCodeLibraryExt1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Администратор\Documents\GitHub\myCodeLibrary\РаботатьЗдесь\MyCodeLibrary\MyCodeLibraryExt1\obj\Debug\MyCodeLibraryExt1.dll
+C:\Users\Администратор\Documents\GitHub\myCodeLibrary\РаботатьЗдесь\MyCodeLibrary\MyCodeLibraryExt1\obj\Debug\MyCodeLibraryExt1.pdb

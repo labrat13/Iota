@@ -1,0 +1,8 @@
+C:\Users\Администратор\Documents\GitHub\myCodeLibrary\РаботатьЗдесь\MyCodeLibrary\MyControlsLibrary\bin\Release\MyControlsLibrary.dll
+C:\Users\Администратор\Documents\GitHub\myCodeLibrary\РаботатьЗдесь\MyCodeLibrary\MyControlsLibrary\bin\Release\MyControlsLibrary.pdb
+C:\Users\Администратор\Documents\GitHub\myCodeLibrary\РаботатьЗдесь\MyCodeLibrary\MyControlsLibrary\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Администратор\Documents\GitHub\myCodeLibrary\РаботатьЗдесь\MyCodeLibrary\MyControlsLibrary\obj\Release\MyControlsLibrary.myRichTextControl.resources
+C:\Users\Администратор\Documents\GitHub\myCodeLibrary\РаботатьЗдесь\MyCodeLibrary\MyControlsLibrary\obj\Release\MyControlsLibrary.Properties.Resources.resources
+C:\Users\Администратор\Documents\GitHub\myCodeLibrary\РаботатьЗдесь\MyCodeLibrary\MyControlsLibrary\obj\Release\MyControlsLibrary.csproj.GenerateResource.Cache
+C:\Users\Администратор\Documents\GitHub\myCodeLibrary\РаботатьЗдесь\MyCodeLibrary\MyControlsLibrary\obj\Release\MyControlsLibrary.dll
+C:\Users\Администратор\Documents\GitHub\myCodeLibrary\РаботатьЗдесь\MyCodeLibrary\MyControlsLibrary\obj\Release\MyControlsLibrary.pdb

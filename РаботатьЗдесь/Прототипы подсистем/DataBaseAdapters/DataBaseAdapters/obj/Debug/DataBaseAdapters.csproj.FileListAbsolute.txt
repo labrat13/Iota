@@ -1,0 +1,15 @@
+C:\Documents and Settings\1\Рабочий стол\DataBaseAdapters\DataBaseAdapters\obj\Debug\ResolveAssemblyReference.cache
+C:\Work\ЛокальныеИнструменты\MyCodeLibrary\РаботатьЗдесь\Шаблоны классов\DataBaseAdapters\DataBaseAdapters\bin\Debug\DataBaseAdapters.exe
+C:\Work\ЛокальныеИнструменты\MyCodeLibrary\РаботатьЗдесь\Шаблоны классов\DataBaseAdapters\DataBaseAdapters\bin\Debug\DataBaseAdapters.pdb
+C:\Work\ЛокальныеИнструменты\MyCodeLibrary\РаботатьЗдесь\Шаблоны классов\DataBaseAdapters\DataBaseAdapters\bin\Debug\System.Data.SQLite.dll
+C:\Work\ЛокальныеИнструменты\MyCodeLibrary\РаботатьЗдесь\Шаблоны классов\DataBaseAdapters\DataBaseAdapters\bin\Debug\System.Data.SQLite.xml
+C:\Work\ЛокальныеИнструменты\MyCodeLibrary\РаботатьЗдесь\Шаблоны классов\DataBaseAdapters\DataBaseAdapters\obj\Debug\ResolveAssemblyReference.cache
+C:\Work\ЛокальныеИнструменты\MyCodeLibrary\РаботатьЗдесь\Шаблоны классов\DataBaseAdapters\DataBaseAdapters\obj\Debug\DataBaseAdapters.exe
+C:\Work\ЛокальныеИнструменты\MyCodeLibrary\РаботатьЗдесь\Шаблоны классов\DataBaseAdapters\DataBaseAdapters\obj\Debug\DataBaseAdapters.pdb
+C:\Work\ЛокальныеИнструменты\MyCodeLibrary\РаботатьЗдесь\Прототипы подсистем\DataBaseAdapters\DataBaseAdapters\DataBaseAdapters\obj\Debug\DataBaseAdapters.exe
+C:\Work\ЛокальныеИнструменты\MyCodeLibrary\РаботатьЗдесь\Прототипы подсистем\DataBaseAdapters\DataBaseAdapters\DataBaseAdapters\obj\Debug\DataBaseAdapters.pdb
+C:\Work\ЛокальныеИнструменты\MyCodeLibrary\РаботатьЗдесь\Прототипы подсистем\DataBaseAdapters\DataBaseAdapters\DataBaseAdapters\bin\Debug\DataBaseAdapters.exe
+C:\Work\ЛокальныеИнструменты\MyCodeLibrary\РаботатьЗдесь\Прототипы подсистем\DataBaseAdapters\DataBaseAdapters\DataBaseAdapters\bin\Debug\DataBaseAdapters.pdb
+C:\Work\ЛокальныеИнструменты\MyCodeLibrary\РаботатьЗдесь\Прототипы подсистем\DataBaseAdapters\DataBaseAdapters\DataBaseAdapters\bin\Debug\System.Data.SQLite.dll
+C:\Work\ЛокальныеИнструменты\MyCodeLibrary\РаботатьЗдесь\Прототипы подсистем\DataBaseAdapters\DataBaseAdapters\DataBaseAdapters\bin\Debug\System.Data.SQLite.xml
+C:\Work\ЛокальныеИнструменты\MyCodeLibrary\РаботатьЗдесь\Прототипы подсистем\DataBaseAdapters\DataBaseAdapters\DataBaseAdapters\obj\Debug\ResolveAssemblyReference.cache

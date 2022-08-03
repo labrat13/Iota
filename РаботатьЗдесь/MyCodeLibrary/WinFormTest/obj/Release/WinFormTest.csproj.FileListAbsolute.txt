@@ -1,0 +1,10 @@
+C:\Users\Администратор\Documents\GitHub\myCodeLibrary\РаботатьЗдесь\MyCodeLibrary\WinFormTest\bin\Release\WinFormTest.exe
+C:\Users\Администратор\Documents\GitHub\myCodeLibrary\РаботатьЗдесь\MyCodeLibrary\WinFormTest\bin\Release\WinFormTest.pdb
+C:\Users\Администратор\Documents\GitHub\myCodeLibrary\РаботатьЗдесь\MyCodeLibrary\WinFormTest\bin\Release\MyControlsLibrary.dll
+C:\Users\Администратор\Documents\GitHub\myCodeLibrary\РаботатьЗдесь\MyCodeLibrary\WinFormTest\bin\Release\MyControlsLibrary.pdb
+C:\Users\Администратор\Documents\GitHub\myCodeLibrary\РаботатьЗдесь\MyCodeLibrary\WinFormTest\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Администратор\Documents\GitHub\myCodeLibrary\РаботатьЗдесь\MyCodeLibrary\WinFormTest\obj\Release\WinFormTest.Form1.resources
+C:\Users\Администратор\Documents\GitHub\myCodeLibrary\РаботатьЗдесь\MyCodeLibrary\WinFormTest\obj\Release\WinFormTest.Properties.Resources.resources
+C:\Users\Администратор\Documents\GitHub\myCodeLibrary\РаботатьЗдесь\MyCodeLibrary\WinFormTest\obj\Release\WinFormTest.csproj.GenerateResource.Cache
+C:\Users\Администратор\Documents\GitHub\myCodeLibrary\РаботатьЗдесь\MyCodeLibrary\WinFormTest\obj\Release\WinFormTest.exe
+C:\Users\Администратор\Documents\GitHub\myCodeLibrary\РаботатьЗдесь\MyCodeLibrary\WinFormTest\obj\Release\WinFormTest.pdb

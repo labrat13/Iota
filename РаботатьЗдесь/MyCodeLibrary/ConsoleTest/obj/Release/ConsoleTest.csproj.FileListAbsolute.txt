@@ -1,0 +1,10 @@
+C:\Users\Администратор\Documents\GitHub\myCodeLibrary\РаботатьЗдесь\MyCodeLibrary\ConsoleTest\bin\Release\myCodeLibrary-Version.txt
+C:\Users\Администратор\Documents\GitHub\myCodeLibrary\РаботатьЗдесь\MyCodeLibrary\ConsoleTest\bin\Release\myCodeLibrary-Readme.txt
+C:\Users\Администратор\Documents\GitHub\myCodeLibrary\РаботатьЗдесь\MyCodeLibrary\ConsoleTest\bin\Release\ConsoleTest.exe
+C:\Users\Администратор\Documents\GitHub\myCodeLibrary\РаботатьЗдесь\MyCodeLibrary\ConsoleTest\bin\Release\ConsoleTest.pdb
+C:\Users\Администратор\Documents\GitHub\myCodeLibrary\РаботатьЗдесь\MyCodeLibrary\ConsoleTest\bin\Release\MyCodeLibrary.dll
+C:\Users\Администратор\Documents\GitHub\myCodeLibrary\РаботатьЗдесь\MyCodeLibrary\ConsoleTest\bin\Release\MyCodeLibrary.pdb
+C:\Users\Администратор\Documents\GitHub\myCodeLibrary\РаботатьЗдесь\MyCodeLibrary\ConsoleTest\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Администратор\Documents\GitHub\myCodeLibrary\РаботатьЗдесь\MyCodeLibrary\ConsoleTest\obj\Release\ConsoleTest.exe
+C:\Users\Администратор\Documents\GitHub\myCodeLibrary\РаботатьЗдесь\MyCodeLibrary\ConsoleTest\obj\Release\ConsoleTest.pdb
+C:\Users\Администратор\Documents\GitHub\myCodeLibrary\РаботатьЗдесь\MyCodeLibrary\ConsoleTest\bin\Release\MyCodeLibrary.xml

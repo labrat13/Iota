@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DataBaseAdapters.AccessDbAdapter" Collapsed="true">
+    <Position X="4.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAIBAMAQAoQAACAAEAMBAAKMYUEIRISIMoACAAAg=</HashCode>
+      <FileName>AccessDbAdapter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DataBaseAdapters.MsSql2005DbAdapter" Collapsed="true">
+    <Position X="0.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAIBAMAAAoQBACAAEAMBEAKMQUEIRISIMIACAAAg=</HashCode>
+      <FileName>MsSql2005DbAdapter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DataBaseAdapters.Program" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DataBaseAdapters.SqliteDbAdapter" Collapsed="true">
+    <Position X="6.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAIBAMAQAoQAACAAEAMBEAKMYUEIRISIMoACAAAg=</HashCode>
+      <FileName>SqliteDbAdapter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DataBaseAdapters.MySqlDbAdapter" Collapsed="true">
+    <Position X="2.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAgIBCMAEAoQBACAAEAEBAAKMQUEYRISIMIgCAAAg=</HashCode>
+      <FileName>MySqlDbAdapter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>

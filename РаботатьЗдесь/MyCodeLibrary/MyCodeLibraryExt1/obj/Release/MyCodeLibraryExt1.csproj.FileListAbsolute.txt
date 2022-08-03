@@ -1,0 +1,5 @@
+C:\Users\Администратор\Documents\GitHub\myCodeLibrary\РаботатьЗдесь\MyCodeLibrary\MyCodeLibraryExt1\bin\Release\MyCodeLibraryExt1.dll
+C:\Users\Администратор\Documents\GitHub\myCodeLibrary\РаботатьЗдесь\MyCodeLibrary\MyCodeLibraryExt1\bin\Release\MyCodeLibraryExt1.pdb
+C:\Users\Администратор\Documents\GitHub\myCodeLibrary\РаботатьЗдесь\MyCodeLibrary\MyCodeLibraryExt1\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Администратор\Documents\GitHub\myCodeLibrary\РаботатьЗдесь\MyCodeLibrary\MyCodeLibraryExt1\obj\Release\MyCodeLibraryExt1.dll
+C:\Users\Администратор\Documents\GitHub\myCodeLibrary\РаботатьЗдесь\MyCodeLibrary\MyCodeLibraryExt1\obj\Release\MyCodeLibraryExt1.pdb
