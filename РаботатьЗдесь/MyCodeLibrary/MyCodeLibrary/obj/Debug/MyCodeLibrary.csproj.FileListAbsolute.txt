@@ -39,3 +39,12 @@ C:\Users\1\Documents\GitVs2019\myCodeLibrary\РаботатьЗдесь\MyCodeLi
 C:\Users\1\Documents\GitVs2019\myCodeLibrary\РаботатьЗдесь\MyCodeLibrary\MyCodeLibrary\obj\Debug\MyCodeLibrary.csproj.CoreCompileInputs.cache
 C:\Users\1\Documents\GitVs2019\myCodeLibrary\РаботатьЗдесь\MyCodeLibrary\MyCodeLibrary\obj\Debug\MyCodeLibrary.dll
 C:\Users\1\Documents\GitVs2019\myCodeLibrary\РаботатьЗдесь\MyCodeLibrary\MyCodeLibrary\obj\Debug\MyCodeLibrary.pdb
+C:\Users\1\Documents\gitrepo\Iota\РаботатьЗдесь\MyCodeLibrary\MyCodeLibrary\bin\Debug\myCodeLibrary-Readme.txt
+C:\Users\1\Documents\gitrepo\Iota\РаботатьЗдесь\MyCodeLibrary\MyCodeLibrary\bin\Debug\myCodeLibrary-Version.txt
+C:\Users\1\Documents\gitrepo\Iota\РаботатьЗдесь\MyCodeLibrary\MyCodeLibrary\bin\Debug\MyCodeLibrary.XML
+C:\Users\1\Documents\gitrepo\Iota\РаботатьЗдесь\MyCodeLibrary\MyCodeLibrary\bin\Debug\MyCodeLibrary.dll
+C:\Users\1\Documents\gitrepo\Iota\РаботатьЗдесь\MyCodeLibrary\MyCodeLibrary\bin\Debug\MyCodeLibrary.pdb
+C:\Users\1\Documents\gitrepo\Iota\РаботатьЗдесь\MyCodeLibrary\MyCodeLibrary\obj\Debug\MyCodeLibrary.csproj.AssemblyReference.cache
+C:\Users\1\Documents\gitrepo\Iota\РаботатьЗдесь\MyCodeLibrary\MyCodeLibrary\obj\Debug\MyCodeLibrary.csproj.CoreCompileInputs.cache
+C:\Users\1\Documents\gitrepo\Iota\РаботатьЗдесь\MyCodeLibrary\MyCodeLibrary\obj\Debug\MyCodeLibrary.dll
+C:\Users\1\Documents\gitrepo\Iota\РаботатьЗдесь\MyCodeLibrary\MyCodeLibrary\obj\Debug\MyCodeLibrary.pdb

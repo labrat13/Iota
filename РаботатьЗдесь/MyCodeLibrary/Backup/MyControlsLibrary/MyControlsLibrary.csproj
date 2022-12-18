@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{499DD837-8056-4DF4-9722-8234AADA6BCE}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MyControlsLibrary</RootNamespace>
+    <AssemblyName>MyControlsLibrary</AssemblyName>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ClipboardManager2.cs" />
+    <Compile Include="myRichTextControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="myRichTextControl.Designer.cs">
+      <DependentUpon>myRichTextControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Service Include="{94E38DFF-614B-4cbd-B67C-F211BB35CE8B}" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="myRichTextControl.resx">
+      <DependentUpon>myRichTextControl.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons16\Print.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons16\Symbol.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons16\Copy.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons16\Cut.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons16\Edit_Redo.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons16\Edit_Undo.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons16\FindNext.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons16\Hyperlink.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons16\Paste.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons16\PrintPreview.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons16\PrintSetup.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons16\ProtectForm.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons16\Date.bmp" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

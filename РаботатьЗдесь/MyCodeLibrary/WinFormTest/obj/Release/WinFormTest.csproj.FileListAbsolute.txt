@@ -8,3 +8,15 @@ C:\Users\Администратор\Documents\GitHub\myCodeLibrary\Работа�
 C:\Users\Администратор\Documents\GitHub\myCodeLibrary\РаботатьЗдесь\MyCodeLibrary\WinFormTest\obj\Release\WinFormTest.csproj.GenerateResource.Cache
 C:\Users\Администратор\Documents\GitHub\myCodeLibrary\РаботатьЗдесь\MyCodeLibrary\WinFormTest\obj\Release\WinFormTest.exe
 C:\Users\Администратор\Documents\GitHub\myCodeLibrary\РаботатьЗдесь\MyCodeLibrary\WinFormTest\obj\Release\WinFormTest.pdb
+C:\Users\1\Documents\gitrepo\Iota\РаботатьЗдесь\MyCodeLibrary\WinFormTest\bin\Release\WinFormTest.exe
+C:\Users\1\Documents\gitrepo\Iota\РаботатьЗдесь\MyCodeLibrary\WinFormTest\bin\Release\WinFormTest.pdb
+C:\Users\1\Documents\gitrepo\Iota\РаботатьЗдесь\MyCodeLibrary\WinFormTest\bin\Release\MyControlsLibrary.dll
+C:\Users\1\Documents\gitrepo\Iota\РаботатьЗдесь\MyCodeLibrary\WinFormTest\bin\Release\MyControlsLibrary.pdb
+C:\Users\1\Documents\gitrepo\Iota\РаботатьЗдесь\MyCodeLibrary\WinFormTest\obj\Release\WinFormTest.csproj.AssemblyReference.cache
+C:\Users\1\Documents\gitrepo\Iota\РаботатьЗдесь\MyCodeLibrary\WinFormTest\obj\Release\WinFormTest.Form1.resources
+C:\Users\1\Documents\gitrepo\Iota\РаботатьЗдесь\MyCodeLibrary\WinFormTest\obj\Release\WinFormTest.Properties.Resources.resources
+C:\Users\1\Documents\gitrepo\Iota\РаботатьЗдесь\MyCodeLibrary\WinFormTest\obj\Release\WinFormTest.csproj.GenerateResource.cache
+C:\Users\1\Documents\gitrepo\Iota\РаботатьЗдесь\MyCodeLibrary\WinFormTest\obj\Release\WinFormTest.csproj.CoreCompileInputs.cache
+C:\Users\1\Documents\gitrepo\Iota\РаботатьЗдесь\MyCodeLibrary\WinFormTest\obj\Release\WinFormTest.csproj.CopyComplete
+C:\Users\1\Documents\gitrepo\Iota\РаботатьЗдесь\MyCodeLibrary\WinFormTest\obj\Release\WinFormTest.exe
+C:\Users\1\Documents\gitrepo\Iota\РаботатьЗдесь\MyCodeLibrary\WinFormTest\obj\Release\WinFormTest.pdb

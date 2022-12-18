@@ -3,3 +3,9 @@ C:\Users\Администратор\Documents\GitHub\myCodeLibrary\Работа�
 C:\Users\Администратор\Documents\GitHub\myCodeLibrary\РаботатьЗдесь\MyCodeLibrary\MyCodeLibraryExt1\obj\Release\ResolveAssemblyReference.cache
 C:\Users\Администратор\Documents\GitHub\myCodeLibrary\РаботатьЗдесь\MyCodeLibrary\MyCodeLibraryExt1\obj\Release\MyCodeLibraryExt1.dll
 C:\Users\Администратор\Documents\GitHub\myCodeLibrary\РаботатьЗдесь\MyCodeLibrary\MyCodeLibraryExt1\obj\Release\MyCodeLibraryExt1.pdb
+C:\Users\1\Documents\gitrepo\Iota\РаботатьЗдесь\MyCodeLibrary\MyCodeLibraryExt1\bin\Release\MyCodeLibraryExt1.dll
+C:\Users\1\Documents\gitrepo\Iota\РаботатьЗдесь\MyCodeLibrary\MyCodeLibraryExt1\bin\Release\MyCodeLibraryExt1.pdb
+C:\Users\1\Documents\gitrepo\Iota\РаботатьЗдесь\MyCodeLibrary\MyCodeLibraryExt1\obj\Release\MyCodeLibraryExt1.csproj.AssemblyReference.cache
+C:\Users\1\Documents\gitrepo\Iota\РаботатьЗдесь\MyCodeLibrary\MyCodeLibraryExt1\obj\Release\MyCodeLibraryExt1.csproj.CoreCompileInputs.cache
+C:\Users\1\Documents\gitrepo\Iota\РаботатьЗдесь\MyCodeLibrary\MyCodeLibraryExt1\obj\Release\MyCodeLibraryExt1.dll
+C:\Users\1\Documents\gitrepo\Iota\РаботатьЗдесь\MyCodeLibrary\MyCodeLibraryExt1\obj\Release\MyCodeLibraryExt1.pdb

@@ -22,3 +22,15 @@ C:\Users\Администратор\Documents\GitHub\myCodeLibrary\Работа�
 C:\Users\Администратор\Documents\GitHub\myCodeLibrary\РаботатьЗдесь\MyCodeLibrary\ConsoleTest\bin\Debug\MyCodeLibrary.pdb
 C:\Users\Администратор\Documents\GitHub\myCodeLibrary\РаботатьЗдесь\MyCodeLibrary\ConsoleTest\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\Администратор\Documents\GitHub\myCodeLibrary\РаботатьЗдесь\MyCodeLibrary\ConsoleTest\bin\Debug\MyCodeLibrary.xml
+C:\Users\1\Documents\gitrepo\Iota\РаботатьЗдесь\MyCodeLibrary\ConsoleTest\bin\Debug\myCodeLibrary-Readme.txt
+C:\Users\1\Documents\gitrepo\Iota\РаботатьЗдесь\MyCodeLibrary\ConsoleTest\bin\Debug\myCodeLibrary-Version.txt
+C:\Users\1\Documents\gitrepo\Iota\РаботатьЗдесь\MyCodeLibrary\ConsoleTest\bin\Debug\ConsoleTest.exe
+C:\Users\1\Documents\gitrepo\Iota\РаботатьЗдесь\MyCodeLibrary\ConsoleTest\bin\Debug\ConsoleTest.pdb
+C:\Users\1\Documents\gitrepo\Iota\РаботатьЗдесь\MyCodeLibrary\ConsoleTest\bin\Debug\MyCodeLibrary.dll
+C:\Users\1\Documents\gitrepo\Iota\РаботатьЗдесь\MyCodeLibrary\ConsoleTest\bin\Debug\MyCodeLibrary.pdb
+C:\Users\1\Documents\gitrepo\Iota\РаботатьЗдесь\MyCodeLibrary\ConsoleTest\bin\Debug\MyCodeLibrary.xml
+C:\Users\1\Documents\gitrepo\Iota\РаботатьЗдесь\MyCodeLibrary\ConsoleTest\obj\Debug\ConsoleTest.csproj.AssemblyReference.cache
+C:\Users\1\Documents\gitrepo\Iota\РаботатьЗдесь\MyCodeLibrary\ConsoleTest\obj\Debug\ConsoleTest.csproj.CoreCompileInputs.cache
+C:\Users\1\Documents\gitrepo\Iota\РаботатьЗдесь\MyCodeLibrary\ConsoleTest\obj\Debug\ConsoleTest.csproj.CopyComplete
+C:\Users\1\Documents\gitrepo\Iota\РаботатьЗдесь\MyCodeLibrary\ConsoleTest\obj\Debug\ConsoleTest.exe
+C:\Users\1\Documents\gitrepo\Iota\РаботатьЗдесь\MyCodeLibrary\ConsoleTest\obj\Debug\ConsoleTest.pdb

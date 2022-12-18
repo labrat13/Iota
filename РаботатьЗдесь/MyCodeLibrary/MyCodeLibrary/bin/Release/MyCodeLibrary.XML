@@ -1667,29 +1667,13 @@
             <param name="chapTitle"></param>
             <returns></returns>
         </member>
-        <member name="M:MyCodeLibrary.FileOperations.CFileOperations.createTemporaryFolder(System.String)">
+        <member name="M:MyCodeLibrary.FileOperations.CFileOperations.makeSafeFileTitle(System.String,System.Int32)">
             <summary>
-            NT-Создать временный каталог со случайным именем и расширением
+            NT-Создать безопасное имя без расширения для файла, длиной менее maxLength символов.
             </summary>
-            <param name="tempFolderPath">Родительский каталог для создаваемого временного каталога</param>
-            <returns>Возвращает путь к созданному временному каталогу.</returns>
-            <remarks>
-            Функция перебирает случайные имена каталогов, чтобы получить незанятое имя для нового каталога.
-            Если 1024 попытки не удались, выдается исключение.
-            </remarks>
-        </member>
-        <member name="F:MyCodeLibrary.FileOperations.CFileOperations.RestrictedFileNames">
-            <summary>
-            Массив запрещенных имен файлов - для коррекции имен файлов
-            </summary>
-        </member>
-        <member name="M:MyCodeLibrary.FileOperations.CFileOperations.isRestrictedFileName(System.String)">
-            <summary>
-            NT-Проверить, что имя файла является неправильным
-            Это не совсем правильная функция: для имен, содержащих точку, лишь первая часть (до первой точки) вызывает исключение.
-            </summary>
-            <param name="p"></param>
-            <returns></returns>
+            <param name="title">Название для файла, возможно, содержащее недопустимые для имени файла символы.</param>
+            <param name="maxLength">Максимально допустимое количество символов названия файла</param>
+            <returns>Функция возвращаетновое название для файла.</returns>
         </member>
         <member name="M:MyCodeLibrary.FileOperations.CFileOperations.makeSafeFiletitle(System.String,System.String,System.String,System.String)">
              <summary>
@@ -1766,6 +1750,30 @@
              }
              </code> 
              </example>
+        </member>
+        <member name="M:MyCodeLibrary.FileOperations.CFileOperations.createTemporaryFolder(System.String)">
+            <summary>
+            NT-Создать временный каталог со случайным именем и расширением
+            </summary>
+            <param name="tempFolderPath">Родительский каталог для создаваемого временного каталога</param>
+            <returns>Возвращает путь к созданному временному каталогу.</returns>
+            <remarks>
+            Функция перебирает случайные имена каталогов, чтобы получить незанятое имя для нового каталога.
+            Если 1024 попытки не удались, выдается исключение.
+            </remarks>
+        </member>
+        <member name="F:MyCodeLibrary.FileOperations.CFileOperations.RestrictedFileNames">
+            <summary>
+            Массив запрещенных имен файлов - для коррекции имен файлов
+            </summary>
+        </member>
+        <member name="M:MyCodeLibrary.FileOperations.CFileOperations.isRestrictedFileName(System.String)">
+            <summary>
+            NT-Проверить, что имя файла является неправильным
+            Это не совсем правильная функция: для имен, содержащих точку, лишь первая часть (до первой точки) вызывает исключение.
+            </summary>
+            <param name="p"></param>
+            <returns></returns>
         </member>
         <member name="M:MyCodeLibrary.FileOperations.CFileOperations.getFileCrc(System.String)">
             <summary>
@@ -1850,6 +1858,12 @@
             NT-Создать каталог, в котором запрещено индексирование средствами операционной системы
             </summary>
             <param name="folderPath">Путь к создаваемому каталогу</param>
+        </member>
+        <member name="M:MyCodeLibrary.FileOperations.CFileOperations.FolderDeleteAndCreate(System.String)">
+            <summary>
+            NT- Удалить и заново создать указанный каталог.
+            </summary>
+            <param name="folderPath">Путь к каталогу.</param>
         </member>
         <member name="M:MyCodeLibrary.FileOperations.CFileOperations.СоздатьФайлБезИндексирования(System.String)">
             <summary>
@@ -1999,6 +2013,37 @@
             <returns></returns>
         </member>
         <!-- Badly formed XML comment ignored for member "M:MyCodeLibrary.FileOperations.CFileOperations.getTitleOfNewSubfolder(System.String,System.String)" -->
+        <member name="M:MyCodeLibrary.FileOperations.CFileOperations.makeNewPath(System.String,System.String,System.String)">
+            <summary>
+            NT- Создать путь к файлу, избежать одинаковых имен файлов.
+            Это решение для организации папки выходных файлов.
+            </summary>
+            <param name="newFileName">Название для создаваемого файла, без расширения</param>
+            <param name="newFileExtension">Расширение для создаваемого файла, с точкой</param>
+            <param name="baseFolderPath">Базовый каталог для подкаталогов хранения файлов.</param>
+            <returns>
+            Функция возвращает путь подкаталога для размещения файла. 
+            Пример: baseFolderPath\0\
+            </returns>
+            <remarks>
+            Это решение для организации папки выходных файлов.
+            Это способ размещения файлов в каталоге baseFolderPath. 
+            Файлы добавляются в подпапки с номерами 0..N.
+            Имя и расширение файла передаются раздельно, поскольку в исходном примере используется одно название и несколько расширений файлов.
+            </remarks>
+            <example>
+            <code>
+            //создать название документа
+            String newName = "document";
+            //проверить, что документа с таким именем еще нет в выходной папке.
+            //Иначе назначить следующий подкаталог в выходной папке для файлов.
+            String newPath = makeNewPath(newName, ".pdf", "C:\\workfiles");
+            //Переместить - переименовать файл пдф в папку выходных файлов.
+            String newPdfFilePath = Path.Combine(newPath, newName + ".pdf");
+            File.Move(srcPdfFolder, newPdfFilePath);
+            </code> 
+            </example>
+        </member>
         <member name="M:MyCodeLibrary.FileOperations.CFileOperations.Rename(System.IO.FileInfo,System.String)">
             <summary>
             Renames a file.
@@ -3244,6 +3289,11 @@
             <param name="userId">Идентификатор элемента</param>
             <returns></returns>
         </member>
+        <member name="T:MyCodeLibrary.HTMLoperations.HTMLprocessor">
+            <summary>
+            NT-Функции обработки текста HTML файлов.
+            </summary>
+        </member>
         <member name="F:MyCodeLibrary.HTMLoperations.HTMLprocessor.htmlCharReplaces">
             <summary>
             Массив строк html-кодов и их текстовых замен.
@@ -3269,14 +3319,7 @@
         </member>
         <!-- Badly formed XML comment ignored for member "M:MyCodeLibrary.HTMLoperations.HTMLprocessor.getSafeHtmlText(System.String)" -->
         <!-- Badly formed XML comment ignored for member "M:MyCodeLibrary.HTMLoperations.HTMLprocessor.getSafeHtmlText2(System.String)" -->
-        <member name="M:MyCodeLibrary.HTMLoperations.HTMLprocessor.ReplaceHtmlCharCodes(System.String)">
-            <summary>
-            NT-Заменить html-символы в строке на их текстовые аналоги/
-            Функция очень поверхностная, нуждается в доработке/развитии.
-            </summary>
-            <param name="text">Входная строка</param>
-            <returns></returns>
-        </member>
+        <!-- Badly formed XML comment ignored for member "M:MyCodeLibrary.HTMLoperations.HTMLprocessor.ReplaceHtmlCharCodes(System.String)" -->
         <member name="M:MyCodeLibrary.HTMLoperations.HTMLprocessor.tryMakeLink(System.String)">
             <summary>
             NT-попробовать собрать ссылку из этого веб-адреса
@@ -3285,13 +3328,20 @@
             <param name="p"></param>
             <returns></returns>
         </member>
+        <member name="M:MyCodeLibrary.HTMLoperations.HTMLprocessor.getHrefValue(System.String)">
+            <summary>
+            NT- Get href path from "...a href="/path/to/file.ext" ..." string.
+            </summary>
+            <param name="text">Input string</param>
+            <returns>Function returns href path or null if href string has invalid format.</returns>
+        </member>
         <member name="M:MyCodeLibrary.HTMLoperations.HTMLprocessor.makeHtmlFileLink(System.String,System.String)">
             <summary>
             NT-Собрать веб-ссылку
             </summary>
             <param name="link">веб-ссылка или ссылка на файл</param>
             <param name="title">Название ссылки</param>
-            <returns></returns>
+            <returns><![CDATA[Возвращает ссылку вида: <A href="web-path">text</A>A>.]]></returns>
         </member>
         <member name="M:MyCodeLibrary.HTMLoperations.HTMLprocessor.GetHtml(System.String)">
             <summary>
@@ -4534,6 +4584,53 @@
             </summary>
             <param name="text">Входная строка</param>
             <returns></returns>
+        </member>
+        <member name="M:MyCodeLibrary.TextProcessing.CStringProcessor.removeTwoMoreWhitespaces(System.String,System.Char[])">
+            <summary>
+            NT-Заменить символы на пробелы и удалить все, что более одного пробела подряд.
+            </summary>
+            <param name="text">Обрабатываемый текст.</param>
+            <param name="vs">Массив символов, заменяемых на пробелы.</param>
+            <returns>Функция возвращает строку в которой все указанные символы заменены пробелами, а последовательность пробелом заменена одним пробелом.</returns>
+            <example>
+            <code>
+            String result = removeTwoMoreWhitespaces(" A \t bar \t \tB ", new char[]{'b','a','r'});
+            //result == " A B "
+            </code>
+            </example>
+        </member>
+        <member name="M:MyCodeLibrary.TextProcessing.CStringProcessor.ReplaceSubStrings(System.String,System.String[],System.String)">
+            <summary>
+            NT- Заменить все найденные подстроки во входной строке на указаное значение.
+            </summary>
+            <param name="text">Входная строка</param>
+            <param name="substrings">Массив заменяемых подстрок</param>
+            <param name="replace">Строка замены</param>
+            <returns>Функция возвращает строку, в которой все указанные подстроки заменены указанной строкой замены.</returns>
+            <example>
+            <code>
+            String result = ReplaceSubStrings(htmlText, new String[] {"A", "B", "C" }, "Замена");
+            </code> 
+            </example>
+        </member>
+        <member name="M:MyCodeLibrary.TextProcessing.CStringProcessor.GetPartBetween(System.String,System.String,System.String)">
+            <summary>
+            NT-Get part of input string between start pattern an end pattern v2.
+            </summary>
+            <param name="text">Input string</param>
+            <param name="v1">Start pattern</param>
+            <param name="v2">End pattern</param>
+            <returns>
+            Function returns substring between start and end patterns.
+            Function returns null if start or end patterns not founded in input string.
+            </returns>
+            <example>
+            <code>
+            String text = "AbetweenZ";
+            String part = getPartBetween(text, "A", "Z");
+            //part == "between"
+            </code>
+            </example>
         </member>
         <member name="M:MyCodeLibrary.TextProcessing.CStringProcessor.IfNullOrEmpty(System.String,System.String)">
             <summary>

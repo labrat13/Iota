@@ -25,3 +25,12 @@ C:\Users\1\Source\Repos\myCodeLibrary\РаботатьЗдесь\MyCodeLibrary\M
 C:\Users\1\Source\Repos\myCodeLibrary\РаботатьЗдесь\MyCodeLibrary\MyCodeLibrary\obj\Release\MyCodeLibrary.csproj.CoreCompileInputs.cache
 C:\Users\1\Source\Repos\myCodeLibrary\РаботатьЗдесь\MyCodeLibrary\MyCodeLibrary\obj\Release\MyCodeLibrary.dll
 C:\Users\1\Source\Repos\myCodeLibrary\РаботатьЗдесь\MyCodeLibrary\MyCodeLibrary\obj\Release\MyCodeLibrary.pdb
+C:\Users\1\Documents\gitrepo\Iota\РаботатьЗдесь\MyCodeLibrary\MyCodeLibrary\bin\Release\myCodeLibrary-Readme.txt
+C:\Users\1\Documents\gitrepo\Iota\РаботатьЗдесь\MyCodeLibrary\MyCodeLibrary\bin\Release\myCodeLibrary-Version.txt
+C:\Users\1\Documents\gitrepo\Iota\РаботатьЗдесь\MyCodeLibrary\MyCodeLibrary\bin\Release\MyCodeLibrary.XML
+C:\Users\1\Documents\gitrepo\Iota\РаботатьЗдесь\MyCodeLibrary\MyCodeLibrary\bin\Release\MyCodeLibrary.dll
+C:\Users\1\Documents\gitrepo\Iota\РаботатьЗдесь\MyCodeLibrary\MyCodeLibrary\bin\Release\MyCodeLibrary.pdb
+C:\Users\1\Documents\gitrepo\Iota\РаботатьЗдесь\MyCodeLibrary\MyCodeLibrary\obj\Release\MyCodeLibrary.csproj.AssemblyReference.cache
+C:\Users\1\Documents\gitrepo\Iota\РаботатьЗдесь\MyCodeLibrary\MyCodeLibrary\obj\Release\MyCodeLibrary.csproj.CoreCompileInputs.cache
+C:\Users\1\Documents\gitrepo\Iota\РаботатьЗдесь\MyCodeLibrary\MyCodeLibrary\obj\Release\MyCodeLibrary.dll
+C:\Users\1\Documents\gitrepo\Iota\РаботатьЗдесь\MyCodeLibrary\MyCodeLibrary\obj\Release\MyCodeLibrary.pdb

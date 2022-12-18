@@ -22,3 +22,12 @@ C:\Users\Администратор\Documents\GitHub\myCodeLibrary\Работа�
 C:\Users\Администратор\Documents\GitHub\myCodeLibrary\РаботатьЗдесь\MyCodeLibrary\MyControlsLibrary\obj\Debug\MyControlsLibrary.csproj.GenerateResource.Cache
 C:\Users\Администратор\Documents\GitHub\myCodeLibrary\РаботатьЗдесь\MyCodeLibrary\MyControlsLibrary\obj\Debug\MyControlsLibrary.dll
 C:\Users\Администратор\Documents\GitHub\myCodeLibrary\РаботатьЗдесь\MyCodeLibrary\MyControlsLibrary\obj\Debug\MyControlsLibrary.pdb
+C:\Users\1\Documents\gitrepo\Iota\РаботатьЗдесь\MyCodeLibrary\MyControlsLibrary\bin\Debug\MyControlsLibrary.dll
+C:\Users\1\Documents\gitrepo\Iota\РаботатьЗдесь\MyCodeLibrary\MyControlsLibrary\bin\Debug\MyControlsLibrary.pdb
+C:\Users\1\Documents\gitrepo\Iota\РаботатьЗдесь\MyCodeLibrary\MyControlsLibrary\obj\Debug\MyControlsLibrary.csproj.AssemblyReference.cache
+C:\Users\1\Documents\gitrepo\Iota\РаботатьЗдесь\MyCodeLibrary\MyControlsLibrary\obj\Debug\MyControlsLibrary.myRichTextControl.resources
+C:\Users\1\Documents\gitrepo\Iota\РаботатьЗдесь\MyCodeLibrary\MyControlsLibrary\obj\Debug\MyControlsLibrary.Properties.Resources.resources
+C:\Users\1\Documents\gitrepo\Iota\РаботатьЗдесь\MyCodeLibrary\MyControlsLibrary\obj\Debug\MyControlsLibrary.csproj.GenerateResource.cache
+C:\Users\1\Documents\gitrepo\Iota\РаботатьЗдесь\MyCodeLibrary\MyControlsLibrary\obj\Debug\MyControlsLibrary.csproj.CoreCompileInputs.cache
+C:\Users\1\Documents\gitrepo\Iota\РаботатьЗдесь\MyCodeLibrary\MyControlsLibrary\obj\Debug\MyControlsLibrary.dll
+C:\Users\1\Documents\gitrepo\Iota\РаботатьЗдесь\MyCodeLibrary\MyControlsLibrary\obj\Debug\MyControlsLibrary.pdb
