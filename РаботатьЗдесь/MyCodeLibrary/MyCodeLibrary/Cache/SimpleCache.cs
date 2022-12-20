@@ -20,10 +20,6 @@ namespace MyCodeLibrary
         /// словарь-хранилище данных
         /// </summary>
         private Dictionary<Int32, String> m_Dictionary;
-        /// <summary>
-        /// генератор случайных чисел для удаления элементов словаря
-        /// </summary>
-        private Random m_rnd;
 
         /// <summary>
         /// Конструктор
@@ -31,7 +27,6 @@ namespace MyCodeLibrary
         public SimpleCache()
         {
             m_maxSize = 16;
-            m_rnd = new Random();
             m_Dictionary = new Dictionary<int, string>(m_maxSize);
         }
         /// <summary>
